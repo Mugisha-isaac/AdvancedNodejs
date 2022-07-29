@@ -1,0 +1,18 @@
+{
+  "name": "workdir",
+  "version": "1.0.0",
+  "description": "advanced nodejs practice",
+  "main": "thread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/Mugisha-isaac/AdvancedNodejs.git"
+  },
+  "author": "MUGISHA ISAAC",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1"
+  }
+}
